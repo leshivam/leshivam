@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Volvoicar</h1>
+<h1 align="center">Hi 👋 I'm Shivam Volvoicar</h1>
 <h3 align="center">Software Development Engineer in Test</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leshivam&label=Profile%20views&color=0e75b6&style=flat" alt="leshivam" /> </p>
@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on **Test Automation Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@leshivam](https://medium.com/@leshivam)
+- 📝 I  write articles on [https://medium.com/@leshivam](https://medium.com/@leshivam)
 
 - 📫 How to reach me **leshivam@gmail.com**
+
+<img alt="Coder GIF" height=350 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
