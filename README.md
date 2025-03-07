@@ -11,7 +11,13 @@
 
 - 📫 How to reach me **leshivam@gmail.com**
 
-<img alt="Coder GIF" height=350 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+- **QA Engineer by day, CS2 Fragmaster by night.** 🔍🎮
+
+   -https://steamcommunity.com/id/shivamemecs/
+
+   -https://www.instagram.com/shivamemecs
+
+<img alt="Coder GIF" height=410 width=450 src="https://github.com/leshivam/leshivam/blob/main/d732f561-f7af-4bec-a522-314076b58eb2.webp" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
