@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on : **Test Automation Projects**
 
-- 📝 I  write articles on : [https://medium.com/@leshivam](https://medium.com/@leshivam)
+- 📝 I  read articles on : [https://medium.com/@leshivam](https://medium.com/@leshivam)
 
 - 📫 How to reach me : **leshivam@gmail.com**
 
